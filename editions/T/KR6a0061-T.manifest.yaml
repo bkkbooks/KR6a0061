@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6a0061/T/v1
+canonical_location: https://kanripo.org/bkk/KR6a0061/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 受新歲經
+  identifiers:
+    krp: KR6a0061
+    cbeta: T01n0061
+    cbeta_old_id: T01n0061
+    authorityid: CA0003177
+    json_key: T0061
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0061.xml
+    old_id: T01n0061
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0061_000-T.yaml, hash: 'sha256:08e10ed5f972e7138e38d09325e565ee3f9e2e6be8de90b05f3e8fa5f3c38179'}
+  - {seq: 1, filename: KR6a0061_001-T.yaml, hash: 'sha256:a713cc7f5635ffa0cbd74db8414490c2d240ae55a5ca80485e78906f56a7a430'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6a0061_000-T.markers.yaml, hash: 'sha256:9d33342d7217c5a8b8494167ebc3c4d160d1a4db2a3db7e5f345a3fffe525abd'}
+  - {seq: 1, role: markers, filename: assets/KR6a0061_001-T.markers.yaml, hash: 'sha256:2297ea3f4722d482b5378328bd9224f9f938a42f24bde109517dc72c8f84a328'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0061_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1356
+  label: 佛說受新歲經
+  type: juan
+  level: 1
+hash: sha256:7e57b6cb0569f5fd3a0f28d6e88d6965b33c0ceb3ea65c9f4c9186edc472bb04
