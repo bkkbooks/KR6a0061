@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6a0061_000.yaml, hash: 'sha256:08e10ed5f972e7138e38d09325e565ee3f9e2e6be8de90b05f3e8fa5f3c38179'}
-  - {seq: 1, filename: KR6a0061_001.yaml, hash: 'sha256:9fb55e1680f3f0afe6ffebd222f6aaa0e9cb5089ad9b5cda6da97d90df58fe1d'}
+  - {seq: 1, filename: KR6a0061_001.yaml, hash: 'sha256:a713cc7f5635ffa0cbd74db8414490c2d240ae55a5ca80485e78906f56a7a430'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0061_001.markers.yaml, hash: 'sha256:39e12146f31b1d32fb5a358c62a0d4369aa67cf3b7a9bae541b6160447ba391d'}
+  - {seq: 0, role: markers, filename: assets/KR6a0061_000.markers.yaml, hash: 'sha256:f34bacac9d6339ce85e35af3e4565e75ce92e6468754614040664e71bf11b9fb'}
+  - {seq: 1, role: markers, filename: assets/KR6a0061_001.markers.yaml, hash: 'sha256:2d435473f69a460a9faba67028fc74af2c6900032cd928bdee76e095d8e506a9'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 佛說受新歲經
   type: juan
   level: 1
-hash: sha256:c6d408c51689c02159c3e21b71245eee9959f777bdabac38d53ecedd5eb06e84
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:539ca0d94f76fcb63e9ec331d02906a93c62bc67d2ceb9f1320a01d0f128894d
 editions:
 - short: T
