@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6a0061_000-T.yaml, hash: 'sha256:08e10ed5f972e7138e38d09325e565ee3f9e2e6be8de90b05f3e8fa5f3c38179'}
   - {seq: 1, filename: KR6a0061_001-T.yaml, hash: 'sha256:a713cc7f5635ffa0cbd74db8414490c2d240ae55a5ca80485e78906f56a7a430'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0061_000-T.markers.yaml, hash: 'sha256:9d33342d7217c5a8b8494167ebc3c4d160d1a4db2a3db7e5f345a3fffe525abd'}
+  - {seq: 0, role: markers, filename: assets/KR6a0061_000-T.markers.yaml, hash: 'sha256:e914a0520a6a866a8498c26121f6b10f7fbd8cd38bd4b2b7c6514f9ea6cc3140'}
   - {seq: 1, role: markers, filename: assets/KR6a0061_001-T.markers.yaml, hash: 'sha256:2297ea3f4722d482b5378328bd9224f9f938a42f24bde109517dc72c8f84a328'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛說受新歲經
   type: juan
   level: 1
-hash: sha256:7e57b6cb0569f5fd3a0f28d6e88d6965b33c0ceb3ea65c9f4c9186edc472bb04
+hash: sha256:65128fcfa1c50c3bcee474996a823eb87d3512a5aa72f2fb6aed45bfdacb4c15
